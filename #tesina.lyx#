@@ -707,7 +707,19 @@ Molto spesso le password utilizzate dagli utenti sono parole presenti nel
 Per rendere una password più sicura è sufficiente scegliere una password
  complessa, che utilizzi caratteri maiuscoli, minuscoli e simboli, che sia
  lunga almeno 8 caratteri, e che non abbia alcuna correlazione con parole
- esistenti e con la persona che la utilizza.
+ esistenti e con la persona che la utilizza
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Per maggiori informazioni su come creare una password sicura si può visitare
+ il seguente link: http://www.pmi.it/tecnologia/software-e-web/articolo/58496/sist
+emi-e-metodi-per-password-sicure.html
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Subsection
@@ -729,7 +741,8 @@ sulla
 \begin_layout Standard
 Un utente può creare un account su facebook per spacciarsi un'altra persona.
  Per rendere credibile l'account il ladro d'identità può informarsi sulla
- vita della persona che vuole danneggiare, 
+ vita della persona che vuole danneggiare, raccogliendo informazioni su
+ parenti, lavoro, abitudini, conoscenze eccetera.
 \end_layout
 
 \begin_layout Chapter
