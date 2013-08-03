@@ -5,7 +5,7 @@
 \textclass book
 \use_default_options true
 \maintain_unincluded_children false
-\language english
+\language italian
 \language_package default
 \inputencoding auto
 \fontencoding global
@@ -61,8 +61,6 @@
 \begin_body
 
 \begin_layout Title
-
-\lang italian
 Esame di Diritto dell'Informatica
 \begin_inset Newline newline
 \end_inset
@@ -71,14 +69,10 @@ Il furto d'identità e Facebook
 \end_layout
 
 \begin_layout Author
-
-\lang italian
 Andrea Peretti
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
 
@@ -88,201 +82,206 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Chapter
-
-\lang italian
 Il furto d'identità
 \end_layout
 
 \begin_layout Section
-
-\lang italian
 Descrizione e definizione
 \end_layout
 
 \begin_layout Standard
-La norma di 
-\lang italian
-riferimento
-\lang english
- sul 
-\lang italian
-furto
-\lang english
- d'identità è 
-\lang italian
-Decreto
-\lang english
- 
-\lang italian
-Legislativo
-\lang english
- 11 aprile 2011, n.
- 64
+Per furto d'identità si intende l'atto di assumere l'identità di un'altra
+ persona a fine di ottenere vantaggi portati dalla posizione di quella persona.
+ È possibile anche che il furto d'identità avvenga per diffamare la persona.
 \end_layout
 
 \begin_layout Standard
+Il problema del furto d'identità è più delicato nel caso di Internet, in
+ cui non si può vedere la persona con cui si è in contatto, rendendo così
+ più facile mascherare la propria identità.
+ 
+\end_layout
 
-\lang italian
-Secondo il sito del Dipartimento del Tesoro Italiano
+\begin_layout Standard
+La prima regola tra le buone precauzioni è quella di non pubblicare mai
+ i propri dati sensibili (etnia, inclinazioni sessuali, ideologie di appartenenz
+a) su internet in luoghi che possono essere visitati pubblicamente, perché
+ è molto facile che questi vengano reperiti e usati a danno della persona.
+\end_layout
+
+\begin_layout Standard
+Inoltre, un ulteriore problema, è rappresentato dal fatto che non è possibile
+ assicurarsi che la persona con cui si stabiliscono dei contatti sia veramente
+ chi dica di essere.
+ 
+\end_layout
+
+\begin_layout Standard
+Per far fronte a questo problema posto dall'evoluzione della tecnologia,
+ si è ricorsi a numerose soluzioni diversificate a seconda dell'ambito:
+ il sistema di login ( che consiste nell'inserimento di un username personale
+ diverso per ogni utente, a cui segue una password segreta, presupposti
+ necessari per l'accesso ad un sito internet) 
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
+Nel paragrafo 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Come-difendersi-da"
 
-\lang italian
-Decreto legislativo 11 aprile 2011, n.
- 64, recante “Istituzione di un sistema pubblico di prevenzione, sul piano
- amministrativo, delle frodi nel settore del credito al consumo, con specifico
- riferimento al furto di identità” http://www.dt.tesoro.it/it/prevenzione_reati_fin
-anziari/furto_identita/ 
+\end_inset
+
+ viene spiegato come scegliere una password efficace.
 \end_layout
 
 \end_inset
 
-:
+; la firma elettronica, il sistema di chiave pubblica e la chiave privata
+ (finalizzate all'identificazione dell'utente ai fini dell'accesso ad un
+ sistema); infine, le connessioni sicure 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+La connessione HTTPS viene trattata nel paragrafo 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Protocollo https"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Quotation
+\end_inset
 
-\lang italian
-[...] per “furto di identità” si intende:
-\end_layout
-
-\begin_layout Quotation
-
-\lang italian
-l'impersonificazione totale: occultamento totale della propria identità
- mediante l'utilizzo indebito di dati relativi all'identità e al reddito
- di un altro soggetto.
- L'impersonificazione può riguardare l'utilizzo indebito di dati riferibili
- sia ad un soggetto in vita sia ad un soggetto deceduto;
-\end_layout
-
-\begin_layout Quotation
-
-\lang italian
-l'impersonificazione parziale: occultamento parziale della propria identità
- mediante l'impiego, in forma combinata, di dati relativi alla propria persona
- e l'utilizzo indebito di dati relativi ad un altro soggetto, nell'ambito
- di quelli di cui al punto precedente
+.
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
-Per furto d'identità si intende l'atto di assumere l'identità di un'altra
- persona a fine di ottenere vantaggi portati dalla posizione di quella persona.
- È possibile anche che il furto d'identità avvenga per diffamare la persona.
-\begin_inset Newline newline
-\end_inset
-
-Dato lo sviluppo tecnologico la normativa si propone di prevedere un sistema
- per l'autenticazione della persona, di dissuadere dal voler praticare il
- reato, e di (ridurre il contenzioso)
+Nonostante l'efficacia provata da queste soluzioni, l'inesperienza o la
+ disattenzione degli utenti può facilmente renderle vane, permettendo ad
+ utenti con fini criminosi di rubare account ed identificarsi attraverso
+ identità altrui.
 \end_layout
 
 \begin_layout Section
-
-\lang italian
 Motivazioni
 \end_layout
 
 \begin_layout Subsection
-
-\lang italian
 F.D.I.
  per diffamazione
 \end_layout
 
 \begin_layout Standard
+Il furto d'identità è commesso per diverse finalità.
+\end_layout
 
-\lang italian
-Il furto d'identità può essere per diffamazione, dove una persona assume
- l'identità del malcapitato per metterlo in cattiva luce o deriderlo.
+\begin_layout Standard
+Può ad esempio, prospettarsi come atto di diffamazione: è il caso della
+ persona che assuma l'identità del soggetto debole al fine di commettere
+ ingiuria o diffamazione nei suoi confronti, non solo nella comunità virtuale
+ ma anche nella vita reale.
  
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Standard
+Può anche consistere in atti di bullismo e ripicche.
+\end_layout
 
-\lang italian
+\begin_layout Standard
+Un caso esemplificativo consiste nell'atto dell'impiegata, una volta licenziata,
+ che insulta il dirigente attraverso la propria bacheca
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://www.laleggepertutti.it/15874_reati-su-facebook-diffamazione-molestie-e-furt
+o-di-identita-come-difendersi
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
 F.D.I.
  per fama
 \end_layout
 
 \begin_layout Standard
+Una persona può inoltre impossessarsi dell'identità di un'altra per poterne
+ sfruttarne la posizione.
+ 
+\end_layout
 
-\lang italian
-Una persona può impossessarsi dell'identità di un'altra per poter sfruttarne
- la posizione.
- In questo modo, il ladro può godere dei benefici di cui gode la persona
- truffata, come l'accesso ad informazioni riservate oppure i privilegi per
- eseguire comandi di amministrazione in un sistema informatico.
+\begin_layout Standard
+In questo modo, il ladro può godere dei benefici della persona truffata,
+ come l'accesso ad informazioni riservate oppure i privilegi per eseguire
+ comandi di amministrazione in un sistema informatico.
 \end_layout
 
 \begin_layout Subsection
-
-\lang italian
 F.D.I.
  per lucro
 \end_layout
 
 \begin_layout Standard
+Infine, la persona si può impossessare di un'altra identità a fini di lucro.
+ 
+\end_layout
 
-\lang italian
-La persona si può impossessare di un'altra identità per fini di lucro.
- Ad esempio clonando o rubando una carta di credito più il codice segreto,
- che secondo i sistemi informatici è l'identificativo di una persona e che
- fornisce l'accesso al conto della stessa.
+\begin_layout Standard
+Ad esempio quando si cloni o si rubi una carta di credito e la password
+ ad essa annessa ( che secondo i sistemi informatici è l'identificativo
+ di una persona) potendo accedere al conto bancario della stessa.
 \end_layout
 
 \begin_layout Chapter
-
-\lang italian
 Il furto d'identità in Facebook
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 In un social network come Facebook in cui sono presenti più di un miliardo
  di profili 
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-Il 4 
-\lang italian
-ottobre
-\lang english
- 2012 il miliardesimo utente si è iscritto a Facebook, fonte: http://it.wikipedia.
-org/wiki/Facebook
+Il 4 ottobre 2012 il miliardesimo utente si è iscritto a Facebook, fonte:
+ http://it.wikipedia.org/wiki/Facebook
 \end_layout
 
 \end_inset
 
-il furto d'identità è un problema molto diffuso.
- Una descrizione del funzionamento del sito può aiutare a comprendere meglio
+il furto d'identità è un problema reale.
+ 
+\end_layout
+
+\begin_layout Standard
+Una descrizione del funzionamento del sito può aiutare a comprendere meglio
  le meccaniche descritte in seguito.
 \end_layout
 
 \begin_layout Section
-
-\lang italian
 Funzionamento di Facebook
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 In Facebook ogni utente dispone di una pagina personale chiamata bacheca,
- che può personalizzare come meglio crede, inserendo le proprie informazioni
- personali
+ che può personalizzare secondo inclinazioni e personalità della persona
+ stessa, inserendo le proprie informazioni personali (oltre al nome, i dati
+ inerenti alla nascita, al conseguimento di titoli di studio o luoghi lavorativi
+, ma anche i libri letti, le foto scattate dall'utente o da altri utenti
+ ma allo stesso ricollegabili) 
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
-
-\lang italian
 I dati sensibili sono inseriti dagli utenti, e Facebook si assicura il permesso
  per il loro trattamento al momento dell'iscrizione.
  
@@ -291,7 +290,11 @@ I dati sensibili sono inseriti dagli utenti, e Facebook si assicura il permesso
 \end_inset
 
  la cui veridicità non viene verificata dal sito.
- Ogni utente può inoltre pubblicare 
+ 
+\end_layout
+
+\begin_layout Standard
+Ogni utente può inoltre pubblicare 
 \begin_inset Quotes eld
 \end_inset
 
@@ -299,11 +302,16 @@ stati
 \begin_inset Quotes erd
 \end_inset
 
- personali, in cui può esprimere un suo pensiero, corredarlo di foto, l'elenco
- delle persone presenti con lui, il luogo in cui si trova.
- La pagina iniziale del sito è uno stream di contenuti condivisi dagli amici
- dell'utente, e per ogni contenuto è possibile inserire un commento, esprimere
- la propria approvazione tramite un 
+ personali, in cui esprime un suo pensiero, corredarlo di foto, l'elenco
+ delle persone presenti con lui ed il luogo in cui si trova.
+\end_layout
+
+\begin_layout Standard
+La pagina iniziale del sito è uno stream di contenuti condivisi dagli amici
+ dell'utente (un diverso profilo con cui l'utente decide di interagire concedend
+ogli l'accesso alla visibilità dei propri dati), e per ogni contenuto è
+ possibile inserire un commento, esprimere la propria approvazione tramite
+ un 
 \begin_inset Quotes eld
 \end_inset
 
@@ -313,53 +321,75 @@ Mi piace
 
 , condividere il contenuto in modo che sia visibile sullo stream dei propri
  amici.
- L'utente può inoltre condividere link a siti, album di foto personali,
- video, clip audio e tutti i media immaginabili.
- Tutte le condivisioni, gli apprezzamenti e le attività sono visibili nella
+ 
+\end_layout
+
+\begin_layout Standard
+L'utente può inoltre condividere link a siti, album di foto personali, video,
+ clip audio ed altri media.
+\end_layout
+
+\begin_layout Standard
+Tutte le condivisioni, gli apprezzamenti e le attività sono visibili nella
  bacheca dell'utente.
- La visibilità di tutte le informazioni che gli utenti pubblicano sul social
+ 
+\end_layout
+
+\begin_layout Standard
+La visibilità di tutte le informazioni che gli utenti pubblicano sul social
  network, è definibile dagli utenti stessi, ognuna può essere:
 \end_layout
 
 \begin_layout Itemize
-
-\lang italian
 pubblica: ossia tutti gli utenti possono vederla se visitano il nostro profilo
 \end_layout
 
 \begin_layout Itemize
+visibile agli amici oppure agli amici ed 
+\begin_inset Quotes eld
+\end_inset
 
-\lang italian
-visibile agli amici oppure agli amici ed agli a.mici degli amici: il contenuto
- visibile sullo stream degli amici oppure anche agli amici dei nostri amici,
- rispettivamente.
+agli amici degli amici
+\begin_inset Quotes erd
+\end_inset
+
+: il contenuto visibile sullo stream degli amici oppure anche agli amici
+ dei nostri amici, rispettivamente.
 \end_layout
 
 \begin_layout Itemize
-
-\lang italian
 privata: visibile solo dall'utente che ha pubblicato il contenuto
 \end_layout
 
 \begin_layout Itemize
-
-\lang italian
 lista di persone o lista di blocco: visibile dalle persone inserite manualmente
  in un elenco oppure nascosto alle persone nell'elenco.
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 Nel sito esistono anche le Pagine: questa funzione è pensata per permettere
  a società, aziende o artisti di creare una pagina web in cui inserire informazi
 oni riguardo alle proprie attività e comunicare con i propri clienti registrati
  su facebook.
- Le pagine vengono usate anche per creare un sistema per condividere contenuti
+\end_layout
+
+\begin_layout Standard
+Le pagine vengono usate anche per creare un sistema in cui condividere contenuti
  riguardo un certo argomento, una causa o comunità.
- Gli utenti possono interagire con le pagine diventando fan di esse (o meglio,
- di quello che tratta la pagina) e pubblicare stati, media, commentare ai
- post della pagina, mettere 
+ 
+\end_layout
+
+\begin_layout Standard
+Gli utenti possono interagire con le pagine diventando 
+\begin_inset Quotes eld
+\end_inset
+
+fan
+\begin_inset Quotes erd
+\end_inset
+
+ di esse (o meglio, di quello che tratta la pagina) e pubblicare stati,
+ media, commentare ai post della pagina, mettere 
 \begin_inset Quotes eld
 \end_inset
 
@@ -371,17 +401,46 @@ Mi piace
  Questo strumento offre una grandissima visibilità, siccome tutto quello
  che viene pubblicato è visibile nello stream degli utenti che sono fan
  della pagina.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+Un'ulteriore funzione è quella dei messaggi personali, dove gli utenti possono
+ chattare singolarmente oppure in gruppo.
+\end_layout
 
-\lang italian
+\begin_layout Standard
 Facebook dispone anche di un App Center che offre applicazioni e giochi
  agli utenti.
- Alcune di queste applicazioni offrono contenuti a pagamento, le quali vengono
+\end_layout
+
+\begin_layout Standard
+Alcune di queste applicazioni offrono contenuti a pagamento, le quali vengono
  acquistate tramite il sistema di crediti fornito dal sito.
- I crediti sono una valuta virtuale, si possono acquistare con soldi reali
- tramite carta di credito o tramite i metodi di pagamento previsti dal sito.
+\end_layout
+
+\begin_layout Standard
+I crediti consistono in una valuta virtuale, si possono acquistare tramite
+ carta di credito o tramite altri metodi di pagamento previsti dal sito.
+\end_layout
+
+\begin_layout Standard
+Facebook offre inoltre la possibilità di accedere al proprio account per
+ visualizzare notifiche, messaggi e stream di notizie da qualsiasi cellulare
+ con la capacità di accesso al web.
+\end_layout
+
+\begin_layout Standard
+Sono supportati tutti i sistemi operativi, dal vecchio Symbian di Nokia
+ ad i più recenti iOS, Android, Windows Phone e BlackBerry OS.
+ 
 \end_layout
 
 \begin_layout Section
@@ -391,7 +450,14 @@ Furto d'identità e facebook
 \begin_layout Standard
 Facebook è per i ladri d'identità una grandissima opportunità per i loro
  scopi.
- Riprendendo i tre punti descritti nel capitolo precedente, possiamo capire
+ Rubare il profilo di una persona e pubblicare contenuti a nome suo, oppure
+ anche solo creare un profilo con i suoi dati, può essere considerato un
+ furto d'identità in quanto il ladro si identifica con i dati del malcapitato.
+ 
+\end_layout
+
+\begin_layout Standard
+Riprendendo i tre punti descritti nel capitolo precedente, possiamo capire
  per quale motivo il sito trattato è appetibile per questa pratica.
 \end_layout
 
@@ -400,11 +466,10 @@ Diffamazione
 \end_layout
 
 \begin_layout Standard
-Rubare il profilo di una persona e pubblicare contenuti a nome suo, oppure
- anche solo creare un profilo con i suoi dati, può essere considerato un
- furto d'identità siccome il ladro si identifica con i dati del macapitato.
- Su Facebook spesso in questa maniera si pubblicano contenuti che mettono
- in cattiva luce la persona che ha subito il furto, dallo scherzoso 
+Una pratica diffamatoria possibile attraverso Facebook consiste nel pubblicare
+ scritti, foto, ecc..
+ per gettare discredito sull'immagine di chi ha subito il furto, dallo scherzoso
+ 
 \begin_inset Quotes eld
 \end_inset
 
@@ -414,12 +479,20 @@ coming out
 
  dell'amico che ha lasciato aperta la sua sessione, ad una vera e propria
  collezione di immagini, pensieri, commenti che possono anche tormentare
- la persona in questione.
- Creando un'identità virtuale ed associandola ad una persona reale, ciò
- che viene scritto nel profilo si riflette sulla persona nella vita reale,
- con tutte le conseguenze del caso.
- Chi visita il profilo molto probabilmente non sa che è un falso profilo,
- quindi si fa idee su una persona
+ la persona in questione o scatenare il disprezzo generale nella comunità
+ virtuale e quella della vita reale.
+\end_layout
+
+\begin_layout Standard
+Creando un'identità virtuale ed associandola ad una persona reale, ciò che
+ viene scritto nel profilo si riflette sulla persona nella vita reale, con
+ tutte le conseguenze del caso.
+ 
+\end_layout
+
+\begin_layout Standard
+L'azione può essere frutto di un atto di bullismo, quindi è molto importante
+ fornire tutela verso la persona diffamata.
 \end_layout
 
 \begin_layout Subsection
@@ -431,7 +504,10 @@ Un utente che produce prodotti informatici, potrebbe creare un profilo di
  un personaggio importante nel campo dell'informatica, e tramite esso pubblicizz
 are i propri prodotti, utilizzando la fama del personaggio truffato a proprio
  vantaggio.
- Può avvenire anche un furto di un profilo amministratore di una certa pagina.
+\end_layout
+
+\begin_layout Standard
+Può avvenire anche un furto di un profilo amministratore di una certa pagina.
  In questo modo si otterrebbero i privilegi per amministrare la pagina,
  aggiungere o rimuovere amministratori, modificare impostazioni, bannare
  utenti eccetera.
@@ -444,33 +520,64 @@ Lucro
 \begin_layout Standard
 La ricchezza di Facebook è la mole di informazioni che sono memorizzate
  nel suo server.
- L'accesso a queste informazioni è ovviamente vietato perchè contengono
- informazioni riservate degli utenti, è possibile accedere ad una parte
- dei dati pagando una cifra non indifferente per indagini statistiche, dove
- i dati vengono resi anonimi.
+ 
+\end_layout
+
+\begin_layout Standard
+L'accesso a queste informazioni è ovviamente vietato perché contengono informazi
+oni riservate degli utenti, è possibile accedere ad una parte dei dati pagando
+ una cifra non indifferente per indagini statistiche, dove i dati vengono
+ resi anonimi.
 \end_layout
 
 \begin_layout Standard
 Rubando un profilo, il ladro può ottenere l'accesso a tutte le conversazioni,
  le amicizie e le informazioni che il malcapitato ha inserito.
- Si possono inoltre ottenere tutti i crediti che il suo possessore ha comprato.
- Riguardo le pagine, la questione è più complessa perchè più le pagine hanno
- fan maggiore è il loro valore.
- Il furto di un profilo con diritti di amministrazione su di una pagina,
+ 
+\end_layout
+
+\begin_layout Standard
+Si possono inoltre ottenere tutti i crediti che il suo possessore ha comprato.
+ 
+\end_layout
+
+\begin_layout Standard
+Riguardo le pagine invece, la questione è più complessa perché più le pagine
+ hanno 
+\begin_inset Quotes eld
+\end_inset
+
+fan
+\begin_inset Quotes erd
+\end_inset
+
+ maggiore è il loro valore.
+\end_layout
+
+\begin_layout Standard
+Il furto di un profilo con diritti di amministrazione su di una pagina,
  come spiegato nel paragrafo precedente, permette di modificare gli amministrato
 ri della stessa.
- Il malintenzionato può aggiungere se stesso tra gli amministratori della
+ 
+\end_layout
+
+\begin_layout Standard
+Il malintenzionato può aggiungere se stesso tra gli amministratori della
  pagina e rimuovere tutti gli altri, impossessandosi così della pagina.
- Il valore delle pagine è dato principalmente dalla visibilità che può fornire
+\end_layout
+
+\begin_layout Standard
+Il valore delle pagine è dato principalmente dalla visibilità che può fornire
  sul materiale pubblicato in esse.
- Molto spesso vengono comprate ad un prezzo abbastanza elevato, oppure i
+\end_layout
+
+\begin_layout Standard
+Molto spesso vengono comprate ad un prezzo abbastanza elevato, oppure i
  proprietari richiedono un pagamento per la pubblicazione di pubblicità,
  facendo diventare così alcune pagine delle pagine di spam.
 \end_layout
 
 \begin_layout Section
-
-\lang italian
 Tipi di F.D.I.
 \end_layout
 
@@ -480,37 +587,41 @@ I due tipi descritti sono già stati menzionati precedentemente, ora verranno
 \end_layout
 
 \begin_layout Subsection
-
-\lang italian
 Creazione di un profilo falso
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 Su Facebook non viene verificata la veridicità dei dati inseriti dagli utenti,
  quindi chiunque può creare un profilo falso inserendo i dati di un'altra
  persona e utilizzarlo come se fosse quella persona.
- 
+ Può quindi capitare che un utente trovi il suo profilo 
+\begin_inset Quotes eld
+\end_inset
+
+oscuro
+\begin_inset Quotes erd
+\end_inset
+
+ che si spaccia per quello reale, oppure una persona non iscritta al sito
+ abbia un profilo denigrante.
 \end_layout
 
 \begin_layout Subsection
-
-\lang italian
 Utilizzo o furto del profilo
 \end_layout
 
 \begin_layout Standard
 Con furto del profilo si intende l'utilizzo di un account Facebook senza
  l'autorizzazione del proprietario.
- Può essere un login all'insaputa del proprietario, o anche il furto vero
+\end_layout
+
+\begin_layout Standard
+Può essere un login all'insaputa del proprietario, o anche il furto vero
  e proprio delle credenziali dell'account, cambiandole in modo che il proprietar
 io non possa più effettuare l'accesso.
 \end_layout
 
 \begin_layout Section
-
-\lang italian
 Come avviene
 \end_layout
 
@@ -520,9 +631,9 @@ Phishing
 
 \begin_layout Standard
 Il phishing è una tecnica il cui scopo è rubare dati sensibili agli utenti
- creando un sito l'interfaccia grafica di un altroesistente e spingendo
- l'utente ad inserire i propri dati, facendogli credere di essere nel sito
- originale.
+ creando un sito con l'interfaccia grafica simile a quella di un altro esistente
+ e spingendo l'utente ad inserire i propri dati, facendogli credere di essere
+ nel sito originale.
  Il termine phishing deriva da fishing, che in inglese significa 
 \begin_inset Quotes eld
 \end_inset
@@ -532,7 +643,7 @@ pescare
 \end_inset
 
 , questo per l'analogia tra l'esca che utilizza un pescatore per pescare
- i pesci di un fiume con il sito contraffato che utilizza il truffatore,
+ i pesci di un fiume ed il sito contraffatto che utilizza il truffatore,
  che aspetta che gli utenti 
 \begin_inset Quotes eld
 \end_inset
@@ -544,12 +655,18 @@ abbocchino
 .
  Il canale attraverso cui il collegamento al sito fasullo viene distribuito
  è principalmente quello delle email.
- Agli utenti viene inviata una mail contenente un messaggio che spinge ad
+\end_layout
+
+\begin_layout Standard
+Agli utenti viene inviata una mail contenente un messaggio che spinge ad
  aprire il collegamento, molto spesso dicendo che l'account è stato bloccato
  ed occorre cambiare la password.
  Inviandolo ad un grande numero di indirizzi email, molto probabilmente
- una piccola percentuale fornirà i dati.
- L'operazione di inviare una gran quantità di mail spazzatura ad un gran
+ una piccola percentuale fornirà i dati, quindi si punta alla quantità.
+\end_layout
+
+\begin_layout Standard
+L'operazione di inviare una gran quantità di mail spazzatura ad un gran
  numero di utenti viene detta spamming.
 \end_layout
 
@@ -562,9 +679,15 @@ Su Facebook, oltre che con la modalità tradizionale delle email il phishing
 \begin_layout Standard
 Possiamo vedere dalla figura un esempio di mail di phishing: essa presenta
  la stessa grafica di facebook: il logo, i colori, la formattazione.
- In questo caso la falsa mail avvisa il malcapitato che il suo account è
+\end_layout
+
+\begin_layout Standard
+In questo caso la falsa mail avvisa il malcapitato che il suo account è
  stato disattivato, e se vuole riattivarlo deve effettuare il login.
- Il pulsante 
+\end_layout
+
+\begin_layout Standard
+Il pulsante 
 \begin_inset Quotes eld
 \end_inset
 
@@ -582,6 +705,7 @@ Sign In
 \begin_layout Standard
 \begin_inset Graphics
 	filename immagini/email-facebook-phishing.jpg
+	width 10cm
 
 \end_inset
 
@@ -589,22 +713,80 @@ Sign In
 \end_layout
 
 \begin_layout Subsubsection
+Whaling
+\end_layout
+
+\begin_layout Standard
+Delle sottotipologie di phishing sono lo spare phishing ed il whaling
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Fonte: http://nazarenolatella.myblog.it/tag/whaling
+\end_layout
+
+\end_inset
+
+.
+ Il primo è una forma di phishing in cui viene studiata la vittima e le
+ sue abitudini, in modo da scrivere messaggi mirati in modo da avere più
+ probabilità che 
+\begin_inset Quotes eld
+\end_inset
+
+abbocchi
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Il secondo prende invece di mira un capo azienda oppure una celebrità,
+ per questo è chiamato 
+\begin_inset Quotes eld
+\end_inset
+
+whaling
+\begin_inset Quotes erd
+\end_inset
+
+ che significa 
+\begin_inset Quotes eld
+\end_inset
+
+pesca della balena
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Come-difendersi-da"
+
+\end_inset
+
 Come difendersi da attacchi di phishing?
 \end_layout
 
 \begin_layout Standard
-Molto spesso basta leggere il testo presente nella mail o nel messaggio,
- spesso presenta errori grammaticali, a dimostrare che non è stato lo staff
- di Facebook a scriverlo ma un hacker straniero.
+Molto spesso basta leggere il testo presente nella mail o nel messaggio
+ perché potrebbe presentare errori grammaticali, a dimostrare che non è
+ stato lo staff di Facebook a scriverlo ma un utente straniero.
  Inoltre, nel caso in cui la mail provenga dalla nostra banca, il messaggio
- dovrebbe sembrare sospetto in principio quando viene chiesto di inserire
- i propri dati personali ed il numero di carta di credito, in quanto qualsiasi
- banca non chiederebbe mai questo genere di dati via mail, dato l'evidente
- pericolo dato dalla poca sicurezza, magari a favore di raccomandate od
- incontri di persona.
+ dovrebbe sembrare sospetto quando viene chiesto di inserire i propri dati
+ personali ed il numero di carta di credito, in quanto qualsiasi banca non
+ chiederebbe mai questo genere di dati via mail, dato l'evidente pericolo
+ per sicurezza, magari a favore di raccomandate od incontri di persona.
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "Protocollo https"
+
+\end_inset
+
 Un ulteriore aiuto può fornircelo il browser che utilizziamo per navigare
  in Internet.
  Il collegamento con Facebook avviene tramite connessione sicura utilizzando
@@ -612,7 +794,7 @@ Un ulteriore aiuto può fornircelo il browser che utilizziamo per navigare
  il supporto per la crittografia, i nostri dati da e verso Facebook sono
  criptati con chiavi a 128 bit.
  Il collegamento inoltre è assicurato da un ente di certificazione che verifica
- che la pagina che richiediamo provega effettivamente dal server identificato
+ che la pagina che richiediamo provenga effettivamente dal server identificato
  dall'indirizzo nella barra degli indirizzi.
  Quindi è buona abitudine controllare al login su Facebook che l'URL sia
  www.facebook.com, ed a lato (nella maggior parte dei browser) appaia un lucchetto
@@ -626,12 +808,35 @@ Codice malevolo
 \begin_layout Standard
 Un codice malevolo è un programma che causa un danno al sistema su cui viene
  eseguito.
- Gli hacker devono trovare un modo per spingere gli utenti ad eseguire il
- virus sulle loro macchine, siccome per infettare un computer deve essere
- avviato, come per tutti i programmi.
- Su facebook questi virus vengono spesso condivisi tramite link che viene
- inviato via messaggio personale o condiviso nello stream delle nostizie,
- acompagnato da un messaggio che invita a cliccarlo.
+\end_layout
+
+\begin_layout Standard
+Molti virus si installano sul sistema del malcapitato per intercettare l'inserim
+ento di password
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+questo tipo di programma è chiamato keylogger.
+\end_layout
+
+\end_inset
+
+ ed inviarle all'hacker, il quale potrà quindi effettuare l'accesso e svuotare
+ i conti bancari nel caso si tratti di credenziali della banca.
+\end_layout
+
+\begin_layout Standard
+Gli hacker devono trovare un modo per spingere gli utenti ad eseguire il
+ virus sulle loro macchine, siccome per infettare un computer esso deve
+ essere avviato, come per tutti i programmi.
+ 
+\end_layout
+
+\begin_layout Standard
+Su facebook i virus vengono spesso condivisi tramite link che viene inviato
+ via messaggio personale o condiviso nello stream delle notizie, accompagnato
+ da un messaggio che invita a cliccarlo.
  Questi messaggi parlano spesso di una foto in cui l'utente è taggato, oppure
  una presa in giro su quello che si fa nel video presente al link riportato,
  o anche le nuove foto hot di una persona famosa.
@@ -640,8 +845,14 @@ Un codice malevolo è un programma che causa un danno al sistema su cui viene
  ed effettuare operazioni utilizzando le informazioni memorizzate nella
  cache del browser, oppure spinge a scaricare un eseguibile che permetterà
  di visualizzare un contenuto.
- Nell'ultimo caso, il file scaricato sarà il virus, che verrà avviato dall'utent
-e, infettando il proprio computer.
+\end_layout
+
+\begin_layout Standard
+Nell'ultimo caso, il file scaricato sarà il virus, che verrà avviato dall'utente
+, infettando il proprio computer.
+ Una volta installato, oltre ad effettuare il danno, cercherà di contagiare
+ altri sistemi inviando a tutti gli amici dell'utente un messaggio personale
+ a sua insaputa.
 \end_layout
 
 \begin_layout Standard
@@ -679,8 +890,11 @@ Il brute force è una tecnica che consiste nel provare a forzare una password
  Utilizzando un programma di brute force un utente malevolo può tentare
  di scoprire la password di un utente di cui conosce l'username utilizzando
  il suo computer e senza muoversi da casa.
- Questo sistema è poco utilizzato perchè il tempo necessario per questa
- operazione è molto lungo, nell'ordine di alcuni anni
+\end_layout
+
+\begin_layout Standard
+Questo sistema è poco utilizzato perché il tempo necessario per questa operazion
+e è molto lungo, nell'ordine di alcuni anni
 \begin_inset Foot
 status open
 
@@ -698,8 +912,12 @@ ds/2013/03/PasswordInfographic-640x2805.jpg
 Molto spesso le password utilizzate dagli utenti sono parole presenti nel
  dizionario della lingua parlata, una data, qualcosa di relativo alla loro
  vita.
- È molto più semplice indovinare una password di una persona che si conosce
- bene perchè si possono avere molti più spunti, come la data dell'anniversario,
+ 
+\end_layout
+
+\begin_layout Standard
+È molto più semplice indovinare una password di una persona che si conosce
+ bene perché si possono avere molti più spunti, come la data dell'anniversario,
  il nome dell'animale domestico, eccetera.
 \end_layout
 
@@ -707,77 +925,474 @@ Molto spesso le password utilizzate dagli utenti sono parole presenti nel
 Per rendere una password più sicura è sufficiente scegliere una password
  complessa, che utilizzi caratteri maiuscoli, minuscoli e simboli, che sia
  lunga almeno 8 caratteri, e che non abbia alcuna correlazione con parole
- esistenti e con la persona che la utilizza.
+ esistenti e con la persona che la utilizza
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Per maggiori informazioni su come creare una password sicura si può visitare
+ il seguente link: http://www.pmi.it/tecnologia/software-e-web/articolo/58496/sist
+emi-e-metodi-per-password-sicure.html
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Subsection
-
-\lang italian
-Raccolta
-\lang english
- 
-\lang italian
-informazioni
-\lang english
- 
-\lang italian
-sulla
-\lang english
- persona
+Raccolta informazioni sulla persona
 \end_layout
 
 \begin_layout Standard
 Un utente può creare un account su facebook per spacciarsi un'altra persona.
  Per rendere credibile l'account il ladro d'identità può informarsi sulla
- vita della persona che vuole danneggiare, 
+ vita della persona che vuole danneggiare, raccogliendo informazioni su
+ parenti, lavoro, abitudini, conoscenze eccetera.
+\end_layout
+
+\begin_layout Section
+Strumenti per difendersi dagli attacchi informatici
+\end_layout
+
+\begin_layout Standard
+Per proteggersi da attacchi informatici su qualsiasi sito è necessario creare
+ una password sicura (vedi paragrafo 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Come-difendersi-da"
+
+\end_inset
+
+), evitare di cliccare link sospetti e mantenere aggiornato il proprio antivirus.
+ Sono sospetti i link scritti in lingua inglese oppure in italiano non corretto
+ che invitano a cliccare su di un link.
+\end_layout
+
+\begin_layout Standard
+L'antivirus può bloccare l'apertura di un file infetto, ed è molto importante
+ mantenerlo aggiornato perché i virus sono in continua evoluzione.
+\end_layout
+
+\begin_layout Standard
+Facebook offre numerose opzioni disponibili atte ad impedire accessi non
+ consentiti agli account dei suoi utenti.
+\end_layout
+
+\begin_layout Subsection
+Strumenti per impedire l'accesso non autorizzato su Facebook
+\end_layout
+
+\begin_layout Standard
+Facebook fornisce una serie di strumenti per permettere all'utente di gestire
+ la sicurezza del proprio account, tutte disponibili nella sezione sicurezza
+ delle impostazioni.
+ È possibile vedere l'elenco delle sessioni attive per il proprio account,
+ ossia dove è attualmente attivo un login a facebook indicando il luogo
+ approssimativo, il sistema operativo ed il browser.
+ Si può così di terminare le sessioni nel caso se ne individuasse una sospetta
+ o non autorizzata.
+ Questa funzione è utile per effettuare il logout a distanza se si effettua
+ l'accesso in un computer di amici oppure pubblico e ci si dimentica di
+ effettuare il logout.
+\end_layout
+
+\begin_layout Standard
+Al momento del login viene richiesto di inserire una descrizione della postazion
+e, visualizzata poi anche lei nella schermata delle sessioni.
+ Questa funzione è chiamata 
+\begin_inset Quotes eld
+\end_inset
+
+Dispositivi conosciuti
+\begin_inset Quotes erd
+\end_inset
+
+, ma più che di dispositivi si può parlare di browser, infatti il sistema
+ discrimina sui browser.
+\end_layout
+
+\begin_layout Standard
+È possibile attivare il protocollo https per tutte le pagine che si visitano
+ sul sito che lo prevedono, oltre che la pagina del login.
+\end_layout
+
+\begin_layout Standard
+Facebook permette all'utente di memorizzare il proprio numero di cellulare
+ in modo da comunicare via SMS.
+ Attivando questa opzione il sistema invia un SMS ogni volta che si effettua
+ il login da una postazione non registrata, permettendo una maggiore sicurezza.
+\end_layout
+
+\begin_layout Standard
+Una funzione facoltativa (che quindi deve abilitare l'utente manualmente)
+ implementata nell'ultimo anno è quella della necessità di inserire un codice
+ che viene inviato via SMS da inserire oltre alla password al momento del
+ login in una postazione non salvata nel sistema.
+\end_layout
+
+\begin_layout Standard
+Tramite l'applicazione mobile, è possibile generare un codice della validità
+ di trenta secondi da utilizzare come password per effettuare l'accesso.
+\end_layout
+
+\begin_layout Standard
+Una funzione potenzialmente pericolosa è quella dei contatti fidati scelti
+ dall'utente, siccome loro possono fornire un codice per effettuare l'accesso
+ in caso di problemi di login.
+ Facebook raccomanda ai contatti fidati di assicurarsi che chi richiede
+ il codice sia veramente chi dice di essere, altrimenti potrebbero fornire
+ un codice di accesso ad una persona sconosciuta.
+\end_layout
+
+\begin_layout Standard
+Utilizzando le funzioni offerte dal social network si può rendere il proprio
+ account molto sicuro.
+ Se qualche utente malevolo riesce ottenere la nostra password non può nuocere
+ perché gli verrà chiesto il codice inviato via sms, ed a meno che abbia
+ sottratto anche il cellulare, non potrà inserirlo.
+\end_layout
+
+\begin_layout Standard
+In ogni caso, riceveremo un email in cui ci viene comunicato che c'è stato
+ un accesso da un nuovo dispositivo, quindi verremo avvisati dell'accaduto,
+ in modo da poter cambiare password e rimuovere l'autorizzazione a quel
+ dispositivo se non lo riconosciamo.
+ Un altro modo per cui un utente malevolo può effettuare l'accesso nel nostro
+ account è presentandosi di persona a casa nostra ed effettuare l'accesso
+ tramite il nostro computer.
+ Questa azione è molto semplice se salviamo la password sul nostro browser.
 \end_layout
 
 \begin_layout Chapter
-
-\lang italian
 Come difendersi
 \end_layout
 
 \begin_layout Section
-
-\lang italian
 I 
 \begin_inset Quotes eld
 \end_inset
 
-
-\lang english
-Terms
-\lang italian
- of Service
+Terms of Service
 \begin_inset Quotes erd
 \end_inset
 
  di Facebook
 \end_layout
 
-\begin_layout Section
+\begin_layout Standard
+Come è lecito aspettarsi, nelle condizioni di Facebook il furto d'identità
+ è vietato.
+ Sotto la voce 
+\begin_inset Quotes eld
+\end_inset
 
-\lang italian
+Identità e privacy
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+https://www.facebook.com/communitystandards
+\end_layout
+
+\end_inset
+
+ dei termini di utilizzo di facebook nella sezione 
+\begin_inset Quotes eld
+\end_inset
+
+Standard della comunità di Facebook
+\begin_inset Quotes erd
+\end_inset
+
+ è scritto:
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+[...] Fingere di essere un'altra persona, creare una presenza falsa per un'organizz
+azione o creare più di un account sono azioni che nuocciono alla comunità
+ e violano le condizioni di Facebook.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Questa pagina delinea la condotta che un utente dovrebbe adottare, vietando
+ atti di bullismo, razzismo, ed incitazione alla violenza in generale.
+\end_layout
+
+\begin_layout Standard
+Viene tutelata quindi la difesa da tutti e tre i tipi di furto d'identità,
+ fornendo strumenti per l'identificazione e dei rimedi.
+\end_layout
+
+\begin_layout Standard
+Nei casi più gravi, si ottiene appoggio per una denuncia alla polizia postale.
+\end_layout
+
+\begin_layout Section
 Appellarsi a facebook
 \end_layout
 
-\begin_layout Section
+\begin_layout Standard
+Facebook fornisce vari strumenti in caso di furto d'identità.
+ 
+\end_layout
 
-\lang italian
+\begin_layout Standard
+Nel caso in cui quello che viene pubblicato da una pagina oppure da altri
+ non sia di gradimento all'utente, è possibile nasconderlo dallo stream
+ delle notizie.
+\end_layout
+
+\begin_layout Standard
+Nel caso in cui si senta disturbati, perseguitati o offesi, è possibile
+ bloccare persone, in modo tale che non sia più possibile per loro contattarci
+ ed accedere al nostro profilo.
+\end_layout
+
+\begin_layout Standard
+È possibile segnalare
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Un infografica mostra cosa succede quando utilizziamo la funzione 
+\begin_inset Quotes eld
+\end_inset
+
+Segnala
+\begin_inset Quotes erd
+\end_inset
+
+ https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-prn1/851563_293317947467769_132050
+2878_n.png
+\end_layout
+
+\end_inset
+
+ a Facebook un profilo od un singolo elemento.
+ 
+\end_layout
+
+\begin_layout Standard
+Facebook possiede un team per ogni tipo di segnalazione che esamina ogni
+ singola segnalazione entro settantadue ore.
+\end_layout
+
+\begin_layout Standard
+Sono disponibili due indirizzi a cui recarsi in caso di account violato
+ e account falsificato.
+\end_layout
+
+\begin_layout Standard
+La seconda opzione è da utilizzare nel caso un utente crei un profilo con
+ i nostri dati.
+\end_layout
+
+\begin_layout Standard
+Nel secondo caso citato, anche chi non sia direttamente titolare di un account
+ proprio su Facebook può attivarsi e far ricorso ai mezzi difensivi, in
+ quanto esiste una pagina visitabile senza che sia necessario effettuare
+ l'accesso, ove si può riscontrare la presenza di un account della nostra
+ persona non autorizzato.
+\end_layout
+
+\begin_layout Standard
+Infine, nel caso in cui il nostro account sia stato violato e non lo ritenessimo
+ più sicuro, possiamo sempre cambiare la password.
+\end_layout
+
+\begin_layout Section
 La normativa Italiana
 \end_layout
 
-\begin_layout Section
+\begin_layout Standard
+La questione viene trattata sia nel codice penale, ma anche in una normativa
+ di dettaglio successiva.
+\end_layout
 
-\lang italian
+\begin_layout Standard
+La norma di riferimento all'interno del codice Rocco sul furto d'identità
+ è all'Art.
+ 494.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Sostituzione di persona
+\begin_inset Quotes erd
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Quotation
+\begin_inset CommandInset label
+LatexCommand label
+name "Art. 494"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Chiunque, al fine di procurare a sé o ad altri un vantaggio o di recare
+ ad altri un danno, induce taluno in errore, sostituendo illegittimamente
+ la propria all'altrui persona, o attribuendo a sé o ad altri un falso nome,
+ o un falso stato, ovvero una qualità a cui la legge attribuisce effetti
+ giuridici, è punito, se il fatto non costituisce un altro delitto contro
+ la fede pubblica con la reclusione fino a un anno.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://www.altalex.com/index.php?idnot=36768#art494
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Invece, ai sensi del Decreto Legislativo 11 aprile 2011, n.
+ 64, come citato dal sito del Dipartimento del Tesoro Italiano
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Decreto legislativo 11 aprile 2011, n.
+ 64, recante “Istituzione di un sistema pubblico di prevenzione, sul piano
+ amministrativo, delle frodi nel settore del credito al consumo, con specifico
+ riferimento al furto di identità” http://www.dt.tesoro.it/it/prevenzione_reati_fin
+anziari/furto_identita/ 
+\end_layout
+
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+[...] per “furto di identità” si intende:
+\end_layout
+
+\begin_layout Quotation
+l'impersonificazione totale: occultamento totale della propria identità
+ mediante l'utilizzo indebito di dati relativi all'identità e al reddito
+ di un altro soggetto.
+ L'impersonificazione può riguardare l'utilizzo indebito di dati riferibili
+ sia ad un soggetto in vita sia ad un soggetto deceduto;
+\end_layout
+
+\begin_layout Quotation
+l'impersonificazione parziale: occultamento parziale della propria identità
+ mediante l'impiego, in forma combinata, di dati relativi alla propria persona
+ e l'utilizzo indebito di dati relativi ad un altro soggetto, nell'ambito
+ di quelli di cui al punto precedente
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Dato lo sviluppo tecnologico la normativa si propone di prevedere un sistema
+ per l'autenticazione della persona, di dissuadere dal voler praticare il
+ reato, e di ridurre il contenzioso.
+\end_layout
+
+\begin_layout Standard
+decreto legislativo trattamento dati personali 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://www.parlamento.it/parlam/leggi/deleghe/03196dl.htm
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+È necessario però ricordare che il nostro ordinamento non prevede ancora
+ un testo legislativo che abbia ad oggetto specifico il furto d'identità
+ digitale: questo pone dei seri problemi di gestione dei casi concreti che
+ vengono via via in esistenza, lasciando per lo più al lavoro della giurispruden
+za la risoluzione delle questioni.
+\end_layout
+
+\begin_layout Standard
+In una società in cui il social network è diventato uno dei più importanti
+ mezzi comunicativi, sarebbe auspicabile una normativa seria e tassativa
+ a cagione della sicurezza del soggetto debole.
+\end_layout
+
+\begin_layout Section
 Appellarsi alla Polizia Postale
 \end_layout
 
-\begin_layout Chapter
+\begin_layout Standard
+Nel caso in cui si fosse vittima di un reato su Facebook, è possibile appellarsi
+ alla polizia postale e delle telecomunicazioni.
+\end_layout
 
-\lang italian
-Casi realmente accaduti
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+La polizia postale e delle comunicazioni è dunque il reparto specializzato
+ per tutte quelle attività di controllo/repressione degli illeciti penali
+ ed amministrativi rientranti nella vasta e complessa materia delle comunicazion
+i, incluse (ed in primis ovviamente) le attività illecite perpetrate per
+ mezzo della rete internet.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Fonte: Wikipedia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La procedura consigliata prevede la raccolta del materiale che provi l'avvenuta
+ molestia, da allegare ad una mail in cui si spiega dettagliatamente il
+ comportamento tenuto dal soggetto in questione, la consistenza delle sue
+ molestie, il comportamento tenuo dallo stesso soggetto offeso.
+\end_layout
+
+\begin_layout Standard
+Dopo l'invio è necessario presentarsi di persona all'ufficio della polizia
+ postale della nostra città per fare una deposizione, ed avviare così le
+ procedure processuali davanti al giudice competente.
 \end_layout
 
 \end_body
